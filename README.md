@@ -1,1 +1,2 @@
-# PULL_REQUEST_TEMPLATE
+# Pull Request Best Practices --
+
