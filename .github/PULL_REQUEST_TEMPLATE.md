@@ -1,8 +1,11 @@
-**Some description for my PR:**
-Simplify email for clients (result of push Ads).
+### Description
+Please explain the changes you made here.
+
 ### Checklist
-- [x] add new email for clients
-- [x] update the context error message
-- [x] simplify client email
-- [ ] tested/deployed
-- [x] ready for review/merge 
+- [ ] Code compiles correctly
+- [ ] New and existing unit tests pass locally with my changes
+- [x] All tests passing
+- [ ] This change requires a documentation update
+- [ ] You have only one commit (if not, squash them into one commit).
+- [ ] New and existing unit tests pass locally with my changes
+- [ ] I have made corresponding changes to the documentation
