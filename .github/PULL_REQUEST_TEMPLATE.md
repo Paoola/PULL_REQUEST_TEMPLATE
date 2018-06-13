@@ -7,4 +7,4 @@ Please explain the changes you made here.
 - [ ] This change requires a documentation update
 - [ ] You have only one commit (if not, squash them into one commit).
 - [ ] New and existing unit tests pass locally with my changes
-- [ ] I have made corresponding changes to the documentation
+- [ ] Tested/deployed
